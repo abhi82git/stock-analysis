@@ -11,21 +11,21 @@ The purpose of the analysis to help Steve do a little more research for his pare
 
 In 2017, of all the 12 stocks, only 1 stock returned negative returns - TERP. Rest of the stocks performed well. 
 
-![2017_returns](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
+![2017_returns](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/2017_Returns.png)
 
 2018 was a comparatively poor year for the stocks. Only 2 stocks returned positive returns, rest of them werein red.
 
-![2018_Returns](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
+![2018_Returns](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/2018_Returns.png)
 
 #### Execution Time Comparison
 
 - With the original code, 2017 stock analysis completed in 0.79 seconds, and 2018 stock completed in .76 seconds.
-![Execution_Time_Original_Code_2017](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
-![Execution_Time_Original_Code_2018](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
+![Execution_Time_Original_Code_2017](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/Execution_Time_Original_Code_2017.png)
+![Execution_Time_Original_Code_2018](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/Execution_Time_Original_Code_2018.png)
 
 - With the refactored code, 2017 stock analysis completed in 0.28 seconds, and 2018 stock completed in 0.18 seconds.
-![Execution_Time_Refactored_Code_2017](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
-![Execution_Time_Refracted_Code_2018](https://github.com/abhi82git/kickstarter-analysis1/blob/6ef48c9f5e61281b3b66e4081b991bcfa90d2d48/Time_Period_Years.png)
+![Execution_Time_Refactored_Code_2017](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/VBA_Challenge_2017.png)
+![Execution_Time_Refracted_Code_2018](https://github.com/abhi82git/stock-analysis/blob/1195e40e0bb244574b20f27470eefdc9e0f99ad8/Resources/VBA_Challenge_2018.png)
 
 #### Analysis
 ##### Non-factored Code
